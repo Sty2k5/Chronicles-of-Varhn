@@ -1,7 +1,9 @@
 Ruleset A) D6 twin pool 
-- roll # of D6 equal to Stat + Skill 
+- roll # of D6 equal to Stat (roll 1)
+- add a static # = to skill 
+- total them
 - roll # of D6 equal to difficulty and difficulty modifiers
-- subtract roll 2 from roll 1
+- subtract roll from total.
 if total is positive success on the following variations
 - if net total is less than negative pool basic sucess
 - if net total positive is equal to or higher than negative pool induce a critical sucess effect
