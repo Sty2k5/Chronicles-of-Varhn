@@ -1,1 +1,54 @@
+Ruleset A) D6 twin pool 
+- roll # of D6 equal to Stat + Skill 
+- roll # of D6 equal to difficulty and difficulty modifiers
+- subtract roll 2 from roll 1
+if total is positive success on the following variations
+- if net total is less than negative pool basic sucess
+- if net total positive is equal to or higher than negative pool induce a critical sucess effect
+- effects can be increased based on number of times the total loops over
+if total is negative failure on the following variations
+- if net total negative is less than positive dice pool, minor failure
+- if net total negative is more than positive dice pool, critical failure effect
+- effects cumulative
+effects vary based on type of roll
 
+
+Ruleset B) upgrading pool
+die step based on stat, die number based on skill (similar to Deadlands RPG) die type is upgraded once per stat level starting at d3
+- a stat roll is treated as a skill roll using the stat (dtype) (D#) combined
+- skip d7, d9, and d 11, stop at d-12
+- difficulty a static number unless opposed
+- dice can explode based on reaching maximum number
+- doubling the difficulty gives similar critical effect to prior system
+- failing a roll total the 1s rolled each one induces a similar critical failure effect to the prior system
+
+Ruleset C - single pool hit/miss
+- roll d8 = to skill and stat
+- roll against a static DC
+- each 1 counts against the total
+- each 8 and 7 count as  hits
+- possibility for a 6 to count as a hit or 2 to count as a miss based on difficulty factor
+- difficulty factor is the static difficulty compared to the skill, if one is double or more the factor increases in that side's favour
+- if the result fails each 1 adds to critical miss effects
+- if the result succeeds each 8 adds to critical sucess effects
+
+Stats
+Physical
+- Power 
+- Resilience
+- Grace
+Mental
+- Prudence
+- Cunning
+- Logic
+Social
+- Charisma
+- Guile
+- Beauty
+Other
+- Luck
+- Health
+- Standing
+
+skills 
+- TBA
